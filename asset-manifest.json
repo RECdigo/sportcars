@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sportcars/static/css/main.3384e866.css",
-    "main.js": "/sportcars/static/js/main.2af324fb.js",
+    "main.js": "/sportcars/static/js/main.0b79799c.js",
     "static/js/453.ef25c1c4.chunk.js": "/sportcars/static/js/453.ef25c1c4.chunk.js",
     "static/media/mclaren-1.mp4": "/sportcars/static/media/mclaren-1.a686a78087058a5c1ae8.mp4",
     "static/media/mclaren-5.mp4": "/sportcars/static/media/mclaren-5.ed0e0ecd468ffedf3a7b.mp4",
@@ -11,21 +11,21 @@
     "static/media/trailer-2.mp4": "/sportcars/static/media/trailer-2.ef3aa04203a4b85fe436.mp4",
     "static/media/mclaren-4.mp4": "/sportcars/static/media/mclaren-4.a359879c7947a89e6a66.mp4",
     "static/media/trailer-3.mp4": "/sportcars/static/media/trailer-3.086740e11ce5c5dcc16a.mp4",
-    "static/media/mclaren-3.jpeg": "/sportcars/static/media/mclaren-3.f95dc4290cecae151a06.jpeg",
-    "static/media/mclaren-1.jpg": "/sportcars/static/media/mclaren-1.72a793985e8a8335fff1.jpg",
-    "static/media/mclaren-2.jpg": "/sportcars/static/media/mclaren-2.573d2f83cb6e971e2f2f.jpg",
-    "static/media/mclaren-4.jpeg": "/sportcars/static/media/mclaren-4.b118b50aac662bd2ae6c.jpeg",
-    "static/media/mclaren-5.jpeg": "/sportcars/static/media/mclaren-5.115879d7ce08dda893a1.jpeg",
+    "static/media/img-mclaren-3.jpeg": "/sportcars/static/media/img-mclaren-3.f95dc4290cecae151a06.jpeg",
+    "static/media/img-mclaren-1.jpg": "/sportcars/static/media/img-mclaren-1.72a793985e8a8335fff1.jpg",
+    "static/media/img-mclaren-2.jpg": "/sportcars/static/media/img-mclaren-2.573d2f83cb6e971e2f2f.jpg",
+    "static/media/img-mclaren-4.jpeg": "/sportcars/static/media/img-mclaren-4.b118b50aac662bd2ae6c.jpeg",
+    "static/media/img-mclaren-5.jpeg": "/sportcars/static/media/img-mclaren-5.115879d7ce08dda893a1.jpeg",
     "static/media/bootstrap-icons.woff?": "/sportcars/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/sportcars/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/logo.png": "/sportcars/static/media/logo.d7b1c205b0c3276683ed.png",
     "index.html": "/sportcars/index.html",
     "main.3384e866.css.map": "/sportcars/static/css/main.3384e866.css.map",
-    "main.2af324fb.js.map": "/sportcars/static/js/main.2af324fb.js.map",
+    "main.0b79799c.js.map": "/sportcars/static/js/main.0b79799c.js.map",
     "453.ef25c1c4.chunk.js.map": "/sportcars/static/js/453.ef25c1c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3384e866.css",
-    "static/js/main.2af324fb.js"
+    "static/js/main.0b79799c.js"
   ]
 }
