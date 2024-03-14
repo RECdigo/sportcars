@@ -1,0 +1,46 @@
+
+
+.sci {
+    position: absolute;
+    top: 50%;
+    right: 100px;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+  }
+
+  .sci li {
+    list-style-type: none;
+  }
+
+  .sci a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.2em;
+    transition: 0.3s;
+  }
+
+  .sci a:hover{
+    color: rgba(0, 194, 222, 0.5);
+
+
+  }
+  @media (max-width: 600px) {
+
+    .sci {
+
+    
+    bottom: 100px;
+    flex-direction: row;
+    top: 100%;
+    right: 40%;
+    margin: 20px;
+    
+
+  }
+
+}

@@ -1,0 +1,50 @@
+.play,
+.pause {
+    display: none;
+    position: absolute;
+    left: 70%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    color: var(--primary);
+    font-size: 5em;
+    cursor: pointer;
+    z-index:100;
+    opacity: 0.3;
+    transition: 0.3s;
+
+}
+
+.play:hover,
+.pause:hover {
+    color: #ffffff;
+    opacity: 1;
+}
+
+.play.active {
+    display: block;
+}
+
+.pause.active {
+    display: block;
+    
+}
+
+@media (max-width: 600px) {
+
+    .play,
+    .pause {
+
+        display: none;     
+    
+    }
+
+    .play.active {
+        display: none;
+    }
+    
+    .pause.active {
+        display: none;
+        
+    }
+
+}

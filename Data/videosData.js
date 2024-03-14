@@ -1,0 +1,53 @@
+const videosData = [
+    {
+        id:'1',
+        file:'mclaren-1.mp4',
+        active:true,
+        model:'765LT SPIDER',
+        color:'#ffffff',
+        name:'MCLAREN',
+        namenum:'mclaren-1',
+        image:'img-mclaren-1.jpg'
+    },
+    {
+        id:'2',
+        file:'mclaren-2.mp4',
+        active:false,
+        model:'ARTURA',
+        color:'#92ff00',
+        name:'MCLAREN',
+        namenum:'mclaren-2',
+        image:'img-mclaren-2.jpg'
+    },
+    {
+        id:'3',
+        file:'mclaren-3.mp4',
+        active:false,
+        model:7505,
+        color:'#ff0015',
+        name:'MCLAREN',
+        namenum:'mclaren-3',
+        image:'img-mclaren-3.jpeg'
+    },
+    {
+        id:'4',
+        file:'mclaren-4.mp4',
+        active:false,
+        model:'765LT',
+        color:'#ff2e00',
+        name:'MCLAREN',
+        namenum:'mclaren-4',
+        image:'img-mclaren-4.jpeg'
+    },
+    {
+        id:'5',
+        file:'mclaren-5.mp4',
+        active:false,
+        model:'7505 SPIDER',
+        color:'#bbc0dd',
+        name:'MCLAREN',
+        namenum:'mclaren-5',
+        image:'img-mclaren-5.jpeg'
+    },
+]
+export default videosData
